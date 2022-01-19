@@ -6,9 +6,10 @@
 
 ## 👷 Built With
 
-- Google Colab
-- Python
-- Excel
+- [Python](https://www.python.org/ "Python"): Main Coding Language for executing commands
+- [Excel](https://www.microsoft.com/en-us/microsoft-365/excel "Excel"): Data Cleaning Methologies
+- [Google Colaboratory](https://colab.research.google.com/?utm_source=scs-index "Google Colaboratory"): Code Editor
+- [Github](https://github.com/ "Github"): Repo Storage and source code management
 
 ## 📚 Libraries
 
