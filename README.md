@@ -1,9 +1,6 @@
 <h1 align="center">Financial-Aid-Analysis</h1>
 <p align="center">Analyzed financial aid variables to highlight academic and demographic differences between students across states using Python</p>
 
-## 🌐 Links
-- [Repo](https://github.com/tejatammali/Financial-Aid-Analysis)
-
 ## 👷 Built With
 
 - [Python](https://www.python.org/ "Python"): Main Coding Language for executing commands
@@ -17,6 +14,14 @@
 - [x] NumPy
 - [x] Matplotlib
 - [x] Beautiful Soup
+
+## 💡 Analysis
+- [x] Number of financial aid applications between genders and age groups
+- [x] Percentage of top five states that were awareded the most aid
+- [x] Amount of people who recieved aid varying on the degree type
+
+## 🌐 Links
+- [Federal Student Aid](https://studentaid.gov/data-center/student "Federal Student Aid"): Data Source
 
 ## 🧑🏻 Author
 
