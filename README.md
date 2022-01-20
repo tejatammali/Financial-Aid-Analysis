@@ -17,8 +17,8 @@
 
 ## 💡 Analysis
 - [x] Number of financial aid applications between genders and age groups
-- [x] Percentage of top five states that were awareded the most aid
-- [x] Amount of people who recieved aid varying on the degree type
+- [x] Percentage of top five states that were awarded the most aid
+- [x] Amount of people who received aid varying on the degree type
 
 ## 🌐 Links
 - [Federal Student Aid](https://studentaid.gov/data-center/student "Federal Student Aid"): Data Source
